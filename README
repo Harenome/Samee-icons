@@ -1,0 +1,31 @@
+Samee icons 0.1
+===============
+
+Samee icons is a set of Hard Disk Drives icons. Perhaps more...
+
+
+
+License
+=======
+Samee icons is licensed under the Attribution Creative Commons License 3.0.
+You are free to use, change and redistribute it under certain conditions.
+For further information please see the license file or visit http://creativecommons.org/licenses/by/3.0/
+
+
+
+Use on Windows:
+===============
+The current version is not yet complete, you will need to convert the png files into ico files. Some docks and softwares can directly use the png files.
+To edit the source files, you will need a vector graphic software such as Inkscape or Adobe Illustrator.
+
+
+Use on Mac:
+===========
+The current version is not complet, you will need to convert the png files into icns files.
+To edit the source files, you will need a vector graphic software such as Inkscape or Adobe Illustrator.
+
+
+Use on GNU/Linux:
+=================
+Most modern and up to date GNU/Linux distributions can natively view and scale svg files. Replace the appropriate files in your icon theme of choice. I recommend you use the png files if scalability is not needed.
+To edit the source files, I recommend you install Inkscape. Adobe Illustrator is said to work through Wine.
