@@ -905,26 +905,6 @@
        gradientTransform="matrix(0.24888529,0,0,0.24886235,0.6612346,0.0438)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#bottom-holes-sides-shadow-gradient"
-       id="linearGradient4251"
-       gradientUnits="userSpaceOnUse"
-       x1="415"
-       y1="470.5"
-       x2="410"
-       y2="470.5"
-       gradientTransform="matrix(0.24888529,0,0,0.24886235,0.162343,-0.2102)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#bottom-holes-sides-shadow-gradient"
-       id="linearGradient4794"
-       gradientUnits="userSpaceOnUse"
-       x1="180"
-       y1="470.5"
-       x2="185"
-       y2="470.5"
-       gradientTransform="matrix(0.24888529,0,0,0.24886235,0.6612346,-0.2102)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#connectors-plate-gradient"
        id="linearGradient4860"
        x1="272"
@@ -967,7 +947,8 @@
      id="background"
      inkscape:label="background"
      style="display:inline"
-     transform="translate(0,-384)">
+     transform="translate(0,-384)"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ebebeb;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3963"
@@ -1209,18 +1190,6 @@
              id="internal-hole-base"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="ccccc" />
-          <path
-             sodipodi:nodetypes="cccc"
-             inkscape:connector-curvature="0"
-             id="internal-hole-right-shadow"
-             d="m 102.04219,114.75511 1.49668,0 -0.99779,3.99089 z"
-             style="fill:url(#linearGradient4251);fill-opacity:1;stroke:none;display:inline" />
-          <path
-             sodipodi:nodetypes="cccc"
-             inkscape:connector-curvature="0"
-             id="internal-hole-left-shadow"
-             d="m 46.166323,118.746 -0.997784,-3.99089 1.496675,0 z"
-             style="fill:url(#linearGradient4794);fill-opacity:1;stroke:none;display:inline" />
           <rect
              style="fill:#000000;fill-opacity:0.19607843;fill-rule:evenodd;stroke:none;display:inline"
              id="connectors-plate-shadow"
@@ -2012,10 +1981,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="64.234852"
-     inkscape:cy="67.566714"
+     inkscape:cx="73.592688"
+     inkscape:cy="50.580744"
      inkscape:document-units="px"
-     inkscape:current-layer="internal-common"
+     inkscape:current-layer="samee_128_hdd_src"
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:window-width="1280"
