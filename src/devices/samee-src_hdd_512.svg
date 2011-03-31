@@ -15,7 +15,7 @@
    id="samee_512_hdd_src"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="samee_512_src.svg"
+   sodipodi:docname="samee-src_hdd_512.svg"
    style="display:inline">
   <title
      id="title">Samée - 512px - HDD - Source file</title>
@@ -3073,10 +3073,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="25.00044"
-     inkscape:cy="230.82465"
+     inkscape:cx="264.00044"
+     inkscape:cy="245.82465"
      inkscape:document-units="px"
-     inkscape:current-layer="samée_512_hdd_src"
+     inkscape:current-layer="hdd"
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:window-width="1280"
