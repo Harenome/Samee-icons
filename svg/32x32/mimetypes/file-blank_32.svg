@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="32" width="32" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title>Samée - 32 - File blank</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Samée - 32 - File blank</dc:title>
+    <dc:date>2011-04-05</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Harenome Ranaivoarivony Razanajato</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>empty</rdf:li>
+      <rdf:li>gnome-fs-regular</rdf:li>
+      <rdf:li>gtk-file</rdf:li>
+      <rdf:li>text-x-preview</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by/3.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="corner-shadow-gradient">
+   <stop stop-color="#000" stop-opacity="0.03137255" offset="0"/>
+   <stop stop-color="#000" stop-opacity="0.01176471" offset="1"/>
+  </linearGradient>
+  <linearGradient id="bottom-shadow-gradient">
+   <stop stop-color="#000" stop-opacity="0.05098039" offset="0"/>
+   <stop stop-color="#000" stop-opacity="0.03137255" offset="0.8"/>
+   <stop stop-color="#000" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3928" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.07047873,0,0,0.06249999,-2.0425529,97.000003)" y1="480" x1="255.99"/>
+  <linearGradient id="linearGradient3932" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.07180851,0,0,0.125,-2.3829788,67.00001)" y1="480" x1="255.99"/>
+  <linearGradient id="linearGradient3936" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.0731383,0,0,0.18749996,-2.723404,37.000007)" y1="480" x1="255.99"/>
+  <linearGradient id="linearGradient3940" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.0744681,0,0,0.25000001,-3.0638296,7.0000164)" y1="480" x1="255.99"/>
+  <radialGradient id="radialGradient3960" gradientUnits="userSpaceOnUse" cy="91.075" cx="414.85" gradientTransform="matrix(0.09015564,0,0,0.11172514,-11.94636,91.880901)" r="40.5">
+   <stop stop-color="#ebebeb" offset="0"/>
+   <stop stop-color="#FFF" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3986" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.06480563,0,0,0.08031021,-1.0471461,94.780279)" r="40.5"/>
+  <radialGradient id="radialGradient4004" spreadMethod="reflect" gradientUnits="userSpaceOnUse" cy="415.69" cx="377" gradientTransform="matrix(0.08426703,7.1302845e-4,-6.997544e-4,0.08332653,-8.0852159,89.540648)" r="185">
+   <stop stop-color="#FFF" offset="0"/>
+   <stop stop-color="#f0f0f0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3060" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.06480563,0,0,0.08031021,-1.0471461,94.598203)" r="40.5"/>
+  <radialGradient id="radialGradient3062" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.06480563,0,0,0.08031021,-1.0471461,94.782864)" r="40.5"/>
+  <radialGradient id="radialGradient3064" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.06480563,0,0,0.08031021,-1.0471461,94.967895)" r="40.5"/>
+  <radialGradient id="radialGradient3066" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.06480563,0,0,0.08031021,-1.0471461,95.152803)" r="40.5"/>
+  <radialGradient id="radialGradient3068" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.06480563,0,0,0.08031021,-1.0471461,94.595246)" r="40.5"/>
+  <radialGradient id="radialGradient3829" spreadMethod="reflect" gradientUnits="userSpaceOnUse" cy="114.21" cx="49.25" gradientTransform="matrix(0.58329649,0,0,0.70585623,-4.0080404,42.860919)" r="24">
+   <stop stop-color="#e1e1e1" offset="0"/>
+   <stop stop-color="#d2d2d2" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3049" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.07579788,0,0,0.25000001,-3.4042558,7.000008)" y1="480" x1="255.99"/>
+  <linearGradient id="linearGradient3051" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.07712766,0,0,0.24999999,-3.7446806,6.9999918)" y1="480" x1="255.99"/>
+ </defs>
+ <g transform="translate(0,-96)">
+  <rect fill-rule="evenodd" rx="0.30851" ry="1" height="2" width="29" y="126" x="1.5" fill="url(#linearGradient3051)"/>
+  <rect fill-rule="evenodd" rx="0.30319" ry="1" height="2" width="28.5" y="126" x="1.75" fill="url(#linearGradient3049)"/>
+  <rect fill-rule="evenodd" rx="0.29787" ry="1" height="2" width="28" y="126" x="2" fill="url(#linearGradient3940)"/>
+  <rect fill-rule="evenodd" rx="0.29255" ry="0.75" height="1.5" width="27.5" y="126.25" x="2.25" fill="url(#linearGradient3936)"/>
+  <rect fill-rule="evenodd" rx="0.28723" ry="0.5" height="1" width="27" y="126.5" x="2.5" fill="url(#linearGradient3932)"/>
+  <rect fill-rule="evenodd" rx="0.28191" ry="0.25" height="0.5" width="26.5" y="126.75" x="2.75" fill="url(#linearGradient3928)"/>
+  <path d="m4.5,97.5,17.5,0c1.2399,0,5.5,5.2592,5.5,6.5v22.5h-23z" stroke="url(#radialGradient3829)" stroke-width="1" fill="url(#radialGradient4004)"/>
+  <path d="m5.5,98.5,16,0c1.2399,0,5,4.7592,5,6v22h-21z" stroke-opacity="0.88235294" stroke="#FFF" stroke-width="1" fill="none"/>
+ </g>
+ <g transform="translate(0,-96)">
+  <path d="m20.25,98c1.2158,0,6.75,6.5195,6.75,7.75-0.31635-1.1851-5.2672-1.3988-6.75-1,0.47653-1.7852,1.3307-5.9788,0-6.75z" fill="url(#radialGradient3060)"/>
+  <path fill="url(#radialGradient3062)" d="m20.5,98c1.2158,0,6.5,6.2695,6.5,7.5-0.31635-1.1851-5.0172-1.3988-6.5-1,0.47652-1.7852,1.3307-5.7288,0-6.5z"/>
+  <path d="m20.75,98c1.2158,0,6.25,6.0195,6.25,7.25-0.31635-1.1851-4.7672-1.3988-6.25-1,0.47653-1.7852,1.3307-5.4788,0-6.25z" fill="url(#radialGradient3064)"/>
+  <path fill="url(#radialGradient3066)" d="m21,98c1.2158,0,6,5.7695,6,7-0.31635-1.1851-4.5172-1.3988-6-1,0.47653-1.7852,1.3307-5.2288,0-6z"/>
+  <path d="m21.25,98c1.2158,0,5.75,5.5195,5.75,6.75-0.31635-1.1851-4.2672-1.3988-5.75-1,0.47653-1.7852,1.3307-4.9788,0-5.75z" fill="url(#radialGradient3068)"/>
+  <path fill="url(#radialGradient3986)" d="m21.5,98c1.2158,0,5.5,5.2695,5.5,6.5-0.31635-1.1851-4.0172-1.3988-5.5-1,0.47653-1.7852,1.3307-4.7288,0-5.5z"/>
+  <path fill="url(#radialGradient3960)" d="m22,98c1.2158,0,5,4.7695,5,6-0.31635-1.1851-3.5172-1.3988-5-1,0.47653-1.7852,1.3307-4.2288,0-5z"/>
+  <path d="m22,98.5c1.2158,0,4.5,4.2695,4.5,5.5-0.31635-1.1851-2.5172-1.8988-4-1.5,0.47653-1.7852,0.83072-3.2288-0.5-4z" stroke-opacity="0.29411765" stroke="#FFF" stroke-width="1" fill="none"/>
+ </g>
+</svg>

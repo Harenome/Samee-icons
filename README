@@ -1,8 +1,8 @@
-Samée icons 0.0.1.0
+Samée icons 0.0.1.2
 ===================
 
-Samée icons is a set of Hard Disk Drives icons. Perhaps more...
-It is far from being complete.
+Samée icons is a set of icons.
+It is a work in progress.
 
 
 License
@@ -15,17 +15,26 @@ For further information please see the license file or visit http://creativecomm
 
 Use on Windows:
 ===============
-You will need to convert the png files into ico files. Ico files will be created once the missing sizes are created. Some docks and softwares can directly use the png files.
+Ico files should be available.
+If there is no corresponding ico file to an icon that can be found in the 'icns', 'png', 'svg' or 'src' folders, most likely some sizes are missing and still need to be designed and/or reworked. If every size has been designed, ico files will soon be available.
+
+It is also possible to convert png files or icns files into ico files using dedicated softwares such as IcoFX or IconWorkshop. Graphics software such as Adobe Photoshop or The Gimp are also capable of creating ico files.
+
 To edit the source files, you will need a vector graphic software such as Inkscape or Adobe Illustrator.
 
 
 Use on Mac:
 ===========
-You will need to convert the png files into icns files. Icns files will be created once the missing sizes are created.
+Icns files should be available.
+If there is no corresponding ico file to an icon that can be found in the 'icns', 'png', 'svg' or 'src' folders, most likely some sizes are missing and still need to be designed and/or reworked. If every size has been designed, ico files will soon be available.
+
 To edit the source files, you will need a vector graphic software such as Inkscape or Adobe Illustrator.
 
 
 Use on GNU/Linux:
 =================
-Most modern and up to date GNU/Linux distributions can natively view and scale svg files. Replace the appropriate files in your icon theme of choice. I recommend you use the png files if scalability is not needed.
+Png and svg fles are available.
+Replace the appropriate files in your icon theme of choice. I recommend you use the png files if scalability is not needed.
+
 To edit the source files, I recommend you install Inkscape. Adobe Illustrator is said to work through Wine.
+

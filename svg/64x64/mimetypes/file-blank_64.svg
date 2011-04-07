@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="64" width="64" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title>Samée - 64 - File blank</title>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Samée - 64 - File blank</dc:title>
+    <dc:date>2011-04-05</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Harenome Ranaivoarivony Razanajato</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>empty</rdf:li>
+      <rdf:li>gnome-fs-regular</rdf:li>
+      <rdf:li>gtk-file</rdf:li>
+      <rdf:li>text-x-preview</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by/3.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="corner-shadow-gradient">
+   <stop stop-color="#000" stop-opacity="0.02745098" offset="0"/>
+   <stop stop-color="#000" stop-opacity="0.00392157" offset="1"/>
+  </linearGradient>
+  <linearGradient id="bottom-shadow-gradient">
+   <stop stop-color="#000" stop-opacity="0.05098039" offset="0"/>
+   <stop stop-color="#000" stop-opacity="0.03137255" offset="0.8"/>
+   <stop stop-color="#000" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3928" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.14228724,0,0,0.125,-4.4255307,65.250017)" y1="480" x1="255.99"/>
+  <linearGradient id="linearGradient3932" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.14361702,0,0,0.1875,-4.7659577,35.250015)" y1="480" x1="255.99"/>
+  <linearGradient id="linearGradient3936" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.14494681,0,0,0.24999997,-5.1063822,5.2499864)" y1="480" x1="255.99"/>
+  <linearGradient id="linearGradient3940" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.1462766,0,0,0.3125,-5.4468084,-24.749999)" y1="480" x1="255.99"/>
+  <linearGradient id="linearGradient3944" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.14760639,0,0,0.37499999,-5.7872345,-54.749999)" y1="480" x1="255.99"/>
+  <linearGradient id="linearGradient3948" y2="480" xlink:href="#bottom-shadow-gradient" spreadMethod="reflect" gradientUnits="userSpaceOnUse" x2="444" gradientTransform="matrix(0.14893617,0,0,0.43749999,-6.1276594,-84.750009)" y1="480" x1="255.99"/>
+  <radialGradient id="radialGradient3960" gradientUnits="userSpaceOnUse" cy="98.61" cx="423.83" gradientTransform="matrix(0.17956277,0,0,0.22219495,-23.776931,55.167648)" r="40.5">
+   <stop stop-color="#ebebeb" offset="0"/>
+   <stop stop-color="#FFF" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3971" y2="98.553" gradientUnits="userSpaceOnUse" x2="364.86" gradientTransform="matrix(0.12214143,0,0,0.12242381,0.56022033,64.529096)" y1="67.902" x1="401.38">
+   <stop stop-color="#FFF" stop-opacity="0.68627453" offset="0"/>
+   <stop stop-color="#ebebeb" stop-opacity="0.39215687" offset="0.25"/>
+   <stop stop-color="#FFF" stop-opacity="0.09803922" offset="0.45"/>
+   <stop stop-color="#323232" stop-opacity="0.19607843" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3986" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.12907322,0,0,0.15971806,-2.0689935,60.933826)" r="40.5"/>
+  <radialGradient id="radialGradient4004" spreadMethod="reflect" gradientUnits="userSpaceOnUse" cy="415.69" cx="377" gradientTransform="matrix(0.16783445,0.00141805,-0.0013937,0.16571681,-16.0867,50.513437)" r="185">
+   <stop stop-color="#FFF" offset="0"/>
+   <stop stop-color="#f0f0f0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3844" gradientUnits="userSpaceOnUse" cy="97.135" cx="401.35" gradientTransform="matrix(0.70772051,0,0,0.90553996,-82.528325,-42.94878)" r="43">
+   <stop stop-color="#000" stop-opacity="0.19607843" offset="0"/>
+   <stop stop-color="#000" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3060" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.12907322,0,0,0.15971806,-2.0689935,60.57172)" r="40.5"/>
+  <radialGradient id="radialGradient3062" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.12907322,0,0,0.15971806,-2.0689935,60.938967)" r="40.5"/>
+  <radialGradient id="radialGradient3064" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.12907322,0,0,0.15971806,-2.0689935,61.306949)" r="40.5"/>
+  <radialGradient id="radialGradient3066" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.12907322,0,0,0.15971806,-2.0689935,61.674689)" r="40.5"/>
+  <radialGradient id="radialGradient3068" xlink:href="#corner-shadow-gradient" gradientUnits="userSpaceOnUse" cy="101.75" cx="379.3" gradientTransform="matrix(0.12907322,0,0,0.15971806,-2.0689935,60.56584)" r="40.5"/>
+  <filter id="filter3858" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.125"/>
+  </filter>
+  <radialGradient id="radialGradient3829" spreadMethod="reflect" gradientUnits="userSpaceOnUse" cy="114.21" cx="49.25" gradientTransform="matrix(1.1617502,0,0,1.4037815,-7.9661995,-42.321531)" r="24">
+   <stop stop-color="#e1e1e1" offset="0"/>
+   <stop stop-color="#d2d2d2" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(0,-64)">
+  <rect fill-rule="evenodd" rx="0.59574" ry="1.75" height="3.5" width="56" y="123.5" x="4" fill="url(#linearGradient3948)"/>
+  <rect fill-rule="evenodd" rx="0.59043" ry="1.5" height="3" width="55.5" y="123.75" x="4.25" fill="url(#linearGradient3944)"/>
+  <rect fill-rule="evenodd" rx="0.58511" ry="1.25" height="2.5" width="55" y="124" x="4.5" fill="url(#linearGradient3940)"/>
+  <rect fill-rule="evenodd" rx="0.57979" ry="1" height="2" width="54.5" y="124.25" x="4.75" fill="url(#linearGradient3936)"/>
+  <rect fill-rule="evenodd" rx="0.57447" ry="0.75" height="1.5" width="54" y="124.5" x="5" fill="url(#linearGradient3932)"/>
+  <rect fill-rule="evenodd" rx="0.56915" ry="0.5" height="1" width="53.5" y="124.75" x="5.25" fill="url(#linearGradient3928)"/>
+  <path d="m8.5,67.5,36,0c2.4694,0,11,10.532,11,13v44h-47z" stroke="url(#radialGradient3829)" fill="url(#radialGradient4004)"/>
+  <path d="m9.5,68.5,34.5,0c2.4694,0,10.5,10.032,10.5,12.5v43.5h-45z" stroke-opacity="0.88235294" stroke="#FFF" stroke-width="1" fill="none"/>
+ </g>
+ <g transform="translate(0,-64)">
+  <path d="m178.45,15.282c3.7071,0,44.916,49.094,44.916,52.978-2.5727-9.6049-30.816-15.458-42.874-12.226,3.8754-14.468,8.7807-34.502-2.0416-40.753z" transform="matrix(0.24490287,0,0,0.24538339,0.29733703,64.249999)" filter="url(#filter3858)" fill="url(#radialGradient3844)"/>
+  <path d="M42.5,68c2.422,0,12.5,12.053,12.5,14.5-0.63-2.357-7.547-3.793-10.5-3,0.949-3.55,0.65-9.966-2-11.5z" fill="url(#radialGradient3060)"/>
+  <path fill="url(#radialGradient3062)" d="M42.75,68c2.421,0,12.25,11.803,12.25,14.25-0.63007-2.3569-7.2968-3.7931-10.25-3,0.9491-3.5503,0.65041-9.7163-2-11.25z"/>
+  <path d="m43,68c2.4215,0,12,11.553,12,14-0.63007-2.3569-7.0468-3.7931-10-3,0.9491-3.5503,0.65041-9.4663-2-11z" fill="url(#radialGradient3064)"/>
+  <path fill="url(#radialGradient3066)" d="M43.25,68c2.421,0,11.75,11.303,11.75,13.75-0.63007-2.3569-6.7968-3.7931-9.75-3,0.9491-3.5503,0.65041-9.2163-2-10.75z"/>
+  <path d="m43.5,68c2.4215,0,11.5,11.053,11.5,13.5-0.63007-2.3569-6.5468-3.7931-9.5-3,0.9491-3.5503,0.65041-8.9663-2-10.5z" fill="url(#radialGradient3068)"/>
+  <path fill="url(#radialGradient3986)" d="M43.75,68c2.421,0,11.25,10.803,11.25,13.25-0.63007-2.3569-6.2968-3.7931-9.25-3,0.9491-3.5503,0.65041-8.7163-2-10.25z"/>
+  <path fill="url(#radialGradient3960)" d="m44,68c2.4215,0,11,11.553,11,14-0.63007-2.3569-6.0468-5.7931-9-5,0.9491-3.5503,0.65041-7.4663-2-9z"/>
+  <path d="m44,68c2.4215,0,11,11.553,11,14-0.63007-2.3569-6.0468-5.7931-9-5,0.9491-3.5503,0.65041-7.4663-2-9z" fill="url(#linearGradient3971)"/>
+  <path d="m44.5,68.5c2.4215,0,10,10.553,10,13-0.63007-2.3569-5.0468-5.7931-8-5,0.9491-3.5503,0.65041-6.4662-2-8z" stroke-opacity="0.29411765" stroke="#FFF" stroke-width="1" fill="none"/>
+ </g>
+</svg>
