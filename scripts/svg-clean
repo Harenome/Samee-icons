@@ -1,8 +1,0 @@
-#!/bin/bash
-
-for SVG in *.svg;
-  do
-    inkscape --vacuum-defs $SVG
-  done
-
-exit 0

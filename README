@@ -1,41 +1,33 @@
-Samée icons 0.0.1.4
-===================
+Samée icon theme
+================
 
 Samée icons is a set of icons.
 It is a work in progress.
 
 
-License
-=======
-Samée icons is licensed under the Attribution Creative Commons License 3.0.
+### License ###
+
+Samée icons is licensed under the Attribution-NonCommercial-ShareAlike (BT-NC-SA) Creative Commons License 3.0.
 You are free to use, change and redistribute it under certain conditions.
-For further information please see the license file or visit http://creativecommons.org/licenses/by/3.0/
+For further information please see the license file or visit http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 
-
-Use on Windows:
-===============
-Ico files should be available.
-If there is no corresponding ico file to an icon that can be found in the 'icns', 'png', 'svg' or 'src' folders, most likely some sizes are missing and still need to be designed and/or reworked. If every size has been designed, ico files will soon be available.
-
-It is also possible to convert png files or icns files into ico files using dedicated softwares such as IcoFX or IconWorkshop. Graphics software such as Adobe Photoshop or The Gimp are also capable of creating ico files.
-
-To edit the source files, you will need a vector graphic software such as Inkscape or Adobe Illustrator.
-
-
-Use on Mac:
-===========
-Icns files should be available.
-If there is no corresponding ico file to an icon that can be found in the 'ico', 'png', 'svg' or 'src' folders, most likely some sizes are missing and still need to be designed and/or reworked. If every size has been designed, ico files will soon be available.
-
-
-To edit the source files, you will need a vector graphic software such as Inkscape or Adobe Illustrator.
-
-
-Use on GNU/Linux:
-=================
-Png and svg fles are available.
-Replace the appropriate files in your icon theme of choice. I recommend you use the png files if scalability is not needed.
-
-To edit the source files, I recommend you install Inkscape. Adobe Illustrator is said to work through Wine.
-
+How to
+------
+### Export ###
+#### Software needed ####
+*   __inkscape__ [inkscape](http://inkscape.org/ "inkscape")
+*   __icotool__ from [icoutils](http://www.nongnu.org/icoutils/ "icoutils")
+*   __png2icns__ from [libicns](http://icns.sourceforge.net/ "libicns")
+*   __convert__ from [imagemagick](http://www.imagemagick.org/ "imagemagick")
+These programms are available in the repositories of Debian and Ubuntu. To install them, use the following command with root privileges:
+```
+apt-get install inkscape icoutils icnsutils
+```
+#### Exporting the icons ####
+Once you have installed __inkscape__, __icotool__, __png2icns__ and __convert__, run the _icon-export_ script (make sure it is executable):
+```
+./icon-export
+```
+### Use the icons ###
+There is no script yet to automatically make a theme.
