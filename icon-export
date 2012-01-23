@@ -1,0 +1,40 @@
+#/bin/bash
+# Script to export icons
+
+# TODO: categories
+
+function svgz2png()
+{
+    for SVGZ in *.svgz; do
+        PIXMAP=${SVGZ/.svgz/}
+
+        inkscape "$SVGZ" --export-png="$PIXMAP.png" --export-area-snap --export-area-page --export-dpi=90 --without-gui
+    done
+}
+
+# My icons are named as follows: category_name-x-y-z_size.svg
+# The underscores are troublesome so they should be replaced.
+# This naming is quite useful, so a backup should be done before renaming the icons.
+function png2icoicns()
+{
+    rename 's/_/-/g' *.png
+
+    for PNG in *-512.png; do
+        ICON=${PNG/-512.png/}
+
+        icotool -c "$ICON-16.png" "$ICON-24.png" "$ICON-32.png" "$ICON-48.png" "$ICON-64.png" "$ICON-96.png" "$ICON-128.png" "$ICON-256.png" -o "$ICON.ico"
+        png2icns "$ICON.icns" "$ICON-16.png" "$ICON-32.png" "$ICON-48.png" "$ICON-128.png" "$ICON-256.png" "$ICON-512.png"
+        convert -bordercolor Transparent -border 1x1 "$ICON-22.png" "$ICON-24.png"
+    done
+}
+
+cp -r icons export && cd export
+svgz2png
+mkdir -p png ico icns
+cp *.png png/
+png2icoicns
+mv *.ico ico/
+mv *.icns icns/
+rm *.png *.svgz
+
+exit 0
