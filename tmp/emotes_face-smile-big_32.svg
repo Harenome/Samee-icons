@@ -1,0 +1,69 @@
+<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="eyes-black-gradient">
+<stop offset="0" stop-color="#6c6c6c"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3774" x1="5.99478" x2="5.99478" y1=".16216" y2="34.29088">
+<stop offset="0" stop-color="#e9cd89"/>
+<stop offset="1" stop-color="#ff9805"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3978" x1="9.67835" x2="9.67835" y1="18.85714" y2="24">
+<stop offset="0" stop-color="#fff"/>
+<stop offset="1" stop-color="#e6e6e6"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3798" x1="13.80548" x2="13.80548" xlink:href="#eyes-black-gradient" y1="15" y2="7"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient4080" x1="23.80548" x2="23.80548" xlink:href="#eyes-black-gradient" y1="15" y2="7"/>
+<radialGradient cx="18.56155" cy="5.64165" fx="18.56155" fy="5.64165" gradientTransform="matrix(1.812221,0,0,2.426708,-15.076084,-11.977173)" gradientUnits="userSpaceOnUse" id="radialGradient3766" r="12.66119">
+<stop offset="0" stop-color="#fffccd"/>
+<stop offset="1" stop-color="#ff9805"/>
+</radialGradient>
+<radialGradient cx="18.56155" cy="5.64165" fx="18.56155" fy="5.64165" gradientTransform="matrix(1.812221,0,0,2.426708,-15.076084,-11.977173)" gradientUnits="userSpaceOnUse" id="radialGradient3778" r="12.66119">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/>
+<stop offset=".75" stop-color="#fff" stop-opacity="0"/>
+<stop offset="1" stop-color="#fff" stop-opacity=".49"/>
+</radialGradient>
+</defs>
+<title>Samée - 32 - Emotes - Big Smile</title>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Samée - 32 - Emotes - Big Smile</dc:title>
+<dc:creator>
+<cc:Agent>
+<dc:title>Harenome Ranaivoarivony Razanajato</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:identifier>https://github.com/HarnoRanaivo/Samee-icons</dc:identifier>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+<dc:date>2012-01-22</dc:date>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.070216,0,0,.206958,-.364865,23.133439)"/>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.223104,0,0,.34493,-2.702703,19.389065)"/>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.375992,0,0,.482902,-5.040541,15.644691)"/>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.528879,0,0,.620874,-7.378379,11.900317)"/>
+<path d="m30.55712,17.22652a11.99556,16.28871 0 1 1 -23.99112,0a11.99556,16.28871 0 1 1 23.99112,0z" fill="url(#radialGradient3766)" fill-rule="evenodd" stroke="url(#linearGradient3774)" stroke-width="1.03543" transform="matrix(1.125416,0,0,.828795,-4.889475,.722749)"/>
+<path d="m30.55712,17.22652a11.99556,16.28871 0 1 1 -23.99112,0a11.99556,16.28871 0 1 1 23.99112,0z" fill="url(#radialGradient3778)" fill-rule="evenodd" transform="matrix(1.083734,0,0,.798099,-4.115791,1.251536)"/>
+<path d="m30.55712,17.22652a11.99556,16.28871 0 1 1 -23.99112,0a11.99556,16.28871 0 1 1 23.99112,0z" fill="none" stroke="#fff" stroke-opacity=".196" stroke-width="1.11826" transform="matrix(1.042052,0,0,.767403,-3.342106,1.780323)"/>
+<path d="m8,20l16,0c0,0-1.65328,5-8,5C9.65328,25 8,20 8,20z" fill="#fff" fill-opacity=".196"/>
+<path d="m8,19l16,0c0,0-1.65328,5-8,5C9.65328,24 8,19 8,19z" fill="url(#linearGradient3978)"/>
+<path d="M25,12L25,16l-8,0l0,-4c0,-2.13024 1.87022,-4 4,-4c2.12977,0 4,1.86976 4,4z" fill="#fff" fill-opacity=".392" fill-rule="evenodd"/>
+<path d="M15,12L15,16l-8,0l0,-4c0,-2.13024 1.87022,-4 4,-4c2.12977,0 4,1.86976 4,4z" fill="#fff" fill-opacity=".392" fill-rule="evenodd"/>
+<path d="m15,11l0,4l-8,0L7,11C7,8.86976 8.87022,7 11,7c2.12977,0 4,1.86976 4,4z" fill="url(#linearGradient3798)" fill-rule="evenodd"/>
+<path d="m14.23052,13.21748a1.23744,2.87262 0 1 1 -2.47487,0a1.23744,2.87262 0 1 1 2.47487,0z" fill="#fff" fill-rule="evenodd" transform="matrix(1.616244,0,0,.870285,-9.999999,-.002975)"/>
+<path d="m25,11l0,4l-8,0L17,11c0,-2.13024 1.87022,-4 4,-4c2.12977,0 4,1.86976 4,4z" fill="url(#linearGradient4080)" fill-rule="evenodd"/>
+<path d="m14.23052,13.21748a1.23744,2.87262 0 1 1 -2.47487,0a1.23744,2.87262 0 1 1 2.47487,0z" fill="#fff" fill-rule="evenodd" transform="matrix(1.616244,0,0,.870285,1.3437848e-6,-.002975)"/>
+</svg>

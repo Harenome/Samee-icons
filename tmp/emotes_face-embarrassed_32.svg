@@ -1,0 +1,71 @@
+<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="eyes-black-gradient">
+<stop offset="0" stop-color="#6c6c6c"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3774" x1="5.99478" x2="5.99478" y1=".16216" y2="34.29088">
+<stop offset="0" stop-color="#e9cd89"/>
+<stop offset="1" stop-color="#ff9805"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3218" x1="15" x2="15" xlink:href="#eyes-black-gradient" y1="15" y2="5"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient4058" x1="17" x2="17" xlink:href="#eyes-black-gradient" y1="15" y2="5"/>
+<radialGradient cx="18.56155" cy="5.64165" fx="18.56155" fy="5.64165" gradientTransform="matrix(1.812221,0,0,2.426708,-15.076084,-11.977173)" gradientUnits="userSpaceOnUse" id="radialGradient3766" r="12.66119">
+<stop offset="0" stop-color="#fffccd"/>
+<stop offset="1" stop-color="#ff9805"/>
+</radialGradient>
+<radialGradient cx="18.56155" cy="5.64165" fx="18.56155" fy="5.64165" gradientTransform="matrix(1.812221,0,0,2.426708,-15.076084,-11.977173)" gradientUnits="userSpaceOnUse" id="radialGradient3778" r="12.66119">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/>
+<stop offset=".75" stop-color="#fff" stop-opacity="0"/>
+<stop offset="1" stop-color="#fff" stop-opacity=".49"/>
+</radialGradient>
+<radialGradient cx="23.24614" cy="18.43239" fx="23.24614" fy="18.43239" gradientTransform="matrix(1,0,0,1.289474,0,-5.335691)" gradientUnits="userSpaceOnUse" id="radialGradient3848" r="1.67938">
+<stop offset="0" stop-color="#fa5800" stop-opacity=".49"/>
+<stop offset="1" stop-color="#fa5800" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<title>Samée - 32 - Emotes - Embarrassed</title>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Samée - 32 - Emotes - Embarrassed</dc:title>
+<dc:creator>
+<cc:Agent>
+<dc:title>Harenome Ranaivoarivony Razanajato</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:identifier>https://github.com/HarnoRanaivo/Samee-icons</dc:identifier>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+<dc:date>2012-01-22</dc:date>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.070216,0,0,.206958,-.364865,23.133439)"/>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.223104,0,0,.34493,-2.702703,19.389065)"/>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.375992,0,0,.482902,-5.040541,15.644691)"/>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.528879,0,0,.620874,-7.378379,11.900317)"/>
+<path d="m30.55712,17.22652a11.99556,16.28871 0 1 1 -23.99112,0a11.99556,16.28871 0 1 1 23.99112,0z" fill="url(#radialGradient3766)" fill-rule="evenodd" stroke="url(#linearGradient3774)" stroke-width="1.03543" transform="matrix(1.125416,0,0,.828795,-4.889475,.722749)"/>
+<path d="m30.55712,17.22652a11.99556,16.28871 0 1 1 -23.99112,0a11.99556,16.28871 0 1 1 23.99112,0z" fill="url(#radialGradient3778)" fill-rule="evenodd" transform="matrix(1.083734,0,0,.798099,-4.115791,1.251536)"/>
+<path d="m30.55712,17.22652a11.99556,16.28871 0 1 1 -23.99112,0a11.99556,16.28871 0 1 1 23.99112,0z" fill="none" stroke="#fff" stroke-opacity=".196" stroke-width="1.11826" transform="matrix(1.042052,0,0,.767403,-3.342106,1.780323)"/>
+<path d="m24.92551,18.43239a1.67938,2.16551 0 1 1 -3.35876,0a1.67938,2.16551 0 1 1 3.35876,0z" fill="url(#radialGradient3848)" transform="matrix(2.084104,0,0,1.616244,-41.947369,-13.291239)"/>
+<path d="m24.92551,18.43239a1.67938,2.16551 0 1 1 -3.35876,0a1.67938,2.16551 0 1 1 3.35876,0z" fill="url(#radialGradient3848)" transform="matrix(2.084104,0,0,1.616244,-22.947369,-13.291239)"/>
+<path d="m11.5,21.5l9,0" fill="none" stroke="#000" stroke-opacity=".137"/>
+<path d="m11.5,22.5l9,0" fill="none" stroke="#fff" stroke-opacity=".196"/>
+<path d="m17,12c0,2.13024 1.87022,4 4,4c2.12977,0 4,-1.86976 4,-4C25,9.86976 19,6 19,6c0,0-2,3.86976-2,6z" fill="#fff" fill-opacity=".392"/>
+<path d="m15,12c0,2.13024-1.87022,4-4,4C8.87022,16 7,14.13024 7,12C7,9.86976 13,6 13,6c0,0 2,3.86976 2,6z" fill="#fff" fill-opacity=".392"/>
+<path d="m15,11c0,2.13024-1.87022,4-4,4C8.87022,15 7,13.13024 7,11C7,8.86976 13,5 13,5c0,0 2,3.86976 2,6z" fill="url(#linearGradient3218)"/>
+<path d="m16.34375,15.5a3.59375,5 0 1 1 -7.1875,0a3.59375,5 0 1 1 7.1875,0z" fill="#fff" transform="matrix(.417391,0,0,.4,5.678261,5.3)"/>
+<path d="m17,11c0,2.13024 1.87022,4 4,4c2.12977,0 4,-1.86976 4,-4C25,8.86976 19,5 19,5c0,0-2,3.86976-2,6z" fill="url(#linearGradient4058)"/>
+<path d="m16.34375,15.5a3.59375,5 0 1 1 -7.1875,0a3.59375,5 0 1 1 7.1875,0z" fill="#fff" transform="matrix(.417391,0,0,.4,15.678261,5.3)"/>
+</svg>

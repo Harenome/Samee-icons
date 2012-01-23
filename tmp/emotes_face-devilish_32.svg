@@ -1,0 +1,87 @@
+<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="horns-base-gradient">
+<stop offset="0" stop-color="#4b4b4b"/>
+<stop offset="1" stop-color="#282828"/>
+</linearGradient>
+<linearGradient id="horns-contour-gradient">
+<stop offset="0" stop-color="#232323"/>
+<stop offset="1" stop-color="#191919"/>
+</linearGradient>
+<linearGradient id="eyes-black-gradient">
+<stop offset="0" stop-color="#6c6c6c"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient4196" x1="5.99478" x2="5.99478" y1=".16216" y2="34.29088">
+<stop offset="0" stop-color="#e9a089"/>
+<stop offset="1" stop-color="#ff2205"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient4157" x1="20.72289" x2="20.72289" y1="18.85714" y2="25.28583">
+<stop offset="0"/>
+<stop offset="1" stop-color="#646464"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3999" x1="14.77776" x2="14.77776" xlink:href="#eyes-black-gradient" y1="15" y2="6"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient4111" x1="17.22224" x2="17.22224" xlink:href="#eyes-black-gradient" y1="15" y2="6"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient4134" x1="20.90523" x2="20.90523" xlink:href="#horns-contour-gradient" y2="7.27558"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient4142" x1="25.6881" x2="25.6881" xlink:href="#horns-base-gradient" y2="7.27558"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient4146" x1="6.1879" x2="6.1879" xlink:href="#horns-base-gradient" y2="7.27558"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient4148" x1="10.97077" x2="10.97077" xlink:href="#horns-contour-gradient" y2="7.27558"/>
+<radialGradient cx="18.56155" cy="5.64165" fx="18.56155" fy="5.64165" gradientTransform="matrix(1.812221,0,0,2.426708,-15.076084,-11.977173)" gradientUnits="userSpaceOnUse" id="radialGradient3778" r="12.66119">
+<stop offset="0" stop-color="#fff" stop-opacity="0"/>
+<stop offset=".75" stop-color="#fff" stop-opacity="0"/>
+<stop offset="1" stop-color="#fff" stop-opacity=".49"/>
+</radialGradient>
+<radialGradient cx="18.56155" cy="5.64165" fx="18.56155" fy="5.64165" gradientTransform="matrix(1.812221,0,0,2.426708,-15.076084,-11.977173)" gradientUnits="userSpaceOnUse" id="radialGradient4204" r="12.66119">
+<stop offset="0" stop-color="#ffd8c3"/>
+<stop offset="1" stop-color="#ff2205"/>
+</radialGradient>
+</defs>
+<title>Samée - 32 - Emotes - Devilish</title>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Samée - 32 - Emotes - Devilish</dc:title>
+<dc:creator>
+<cc:Agent>
+<dc:title>Harenome Ranaivoarivony Razanajato</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:identifier>https://github.com/HarnoRanaivo/Samee-icons</dc:identifier>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+<dc:date>2012-01-22</dc:date>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.070216,0,0,.206958,-.364865,23.133439)"/>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.223104,0,0,.34493,-2.702703,19.389065)"/>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.375992,0,0,.482902,-5.040541,15.644691)"/>
+<path d="m21.83192,27.13864a6.54074,3.62392 0 1 1 -13.08148,0a6.54074,3.62392 0 1 1 13.08148,0z" fill-opacity=".039" transform="matrix(1.528879,0,0,.620874,-7.378379,11.900317)"/>
+<path d="m30.55712,17.22652a11.99556,16.28871 0 1 1 -23.99112,0a11.99556,16.28871 0 1 1 23.99112,0z" fill="url(#radialGradient4204)" fill-rule="evenodd" stroke="url(#linearGradient4196)" stroke-width="1.03543" transform="matrix(1.125416,0,0,.828795,-4.889475,.722749)"/>
+<path d="m30.55712,17.22652a11.99556,16.28871 0 1 1 -23.99112,0a11.99556,16.28871 0 1 1 23.99112,0z" fill="url(#radialGradient3778)" fill-rule="evenodd" transform="matrix(1.083734,0,0,.798099,-4.115791,1.251536)"/>
+<path d="m30.55712,17.22652a11.99556,16.28871 0 1 1 -23.99112,0a11.99556,16.28871 0 1 1 23.99112,0z" fill="none" stroke="#fff" stroke-opacity=".196" stroke-width="1.11826" transform="matrix(1.042052,0,0,.767403,-3.342106,1.780323)"/>
+<path d="m7,19.99989l18,0c0,1.60714-2.57988,6.52712-9,6.5c-6.42012,-.02712-9,-4.8916-9,-6.5z" fill="#fff" fill-opacity=".196"/>
+<path d="m7,19l18,0c0,1.60714-2.57988,6.52712-9,6.5C9.57988,25.47288 7,20.6084 7,19z" fill="url(#linearGradient4157)"/>
+<path d="m9,19l3,0l-1.5,3z" fill="#fff"/>
+<path d="m20,19l3,0l-1.5,3z" fill="#fff"/>
+<path d="m17,12c0,2.13024 1.87022,4 4,4c2.12977,0 4,-1.86976 4,-4c0,-2.13024 0,-4 0,-4c0,0-8,1.86976-8,4z" fill="#fff" fill-opacity=".392"/>
+<path d="m15,12c0,2.13024-1.87022,4-4,4C8.87022,16 7,14.13024 7,12C7,9.86976 7,8 7,8c0,0 8,1.86976 8,4z" fill="#fff" fill-opacity=".392"/>
+<path d="m15,11c0,2.13024-1.87022,4-4,4C8.87022,15 7,13.13024 7,11C7,8.86976 7,7 7,7c0,0 8,1.86976 8,4z" fill="url(#linearGradient3999)"/>
+<path d="m16.34375,15.5a3.59375,5 0 1 1 -7.1875,0a3.59375,5 0 1 1 7.1875,0z" fill="#fff" transform="matrix(.417391,0,0,.4,5.678261,5.3)"/>
+<path d="m17,11c0,2.13024 1.87022,4 4,4c2.12977,0 4,-1.86976 4,-4c0,-2.13024 0,-4 0,-4c0,0-8,1.86976-8,4z" fill="url(#linearGradient4111)"/>
+<path d="m16.34375,15.5a3.59375,5 0 1 1 -7.1875,0a3.59375,5 0 1 1 7.1875,0z" fill="#fff" transform="matrix(.417391,0,0,.4,15.678261,5.3)"/>
+<path d="m23.5,6.5c1.54526,-.41405 3,-3.46361 3,-6c-2.00598,3.47446-6,2.62865-6,4c-.67097,1.16216 1.52189,2.96876 3,2z" fill="url(#linearGradient4142)" stroke="url(#linearGradient4134)"/>
+<path d="m23.5,5.5c1.54526,-.41405 3,-2.46361 3,-5c-2.00598,3.47446-5,2.62865-5,4c-.4034,.69871 .52189,1.96876 2,1z" fill="none" stroke="#fff" stroke-opacity=".196"/>
+<path d="m8.376,6.5c-1.54526,-.41405-3,-3.46361-3,-6c2.00598,3.47446 6,2.62865 6,4c.67097,1.16216-1.52189,2.96876-3,2z" fill="url(#linearGradient4146)" stroke="url(#linearGradient4148)"/>
+<path d="m8.405,5.5c-1.54526,-.41405-3,-2.46361-3,-5c2.00598,3.47446 5,2.62865 5,4c.4034,.69871-.52189,1.96876-2,1z" fill="none" stroke="#fff" stroke-opacity=".196"/>
+</svg>
